@@ -68,8 +68,7 @@ The dataset used is the **'tips'** dataset from the Seaborn library — a popula
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/waiter-tips-prediction.git
-cd waiter-tips-prediction
+git clone https://github.com/amolrathod7875/Waiter-Tip-Pediction.git
 ```
 
 ### 2. Install dependencies
