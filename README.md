@@ -31,7 +31,7 @@ It demonstrates the end-to-end machine learning workflow including:
 
 ## 🔍 Dataset
 
-The dataset used is the **'tips'** dataset from the Seaborn library — a popular sample dataset for regression problems.
+The dataset used is the **'tips'** dataset — a popular sample dataset for regression problems.
 
 | Column       | Description                   |
 | ------------ | ----------------------------- |
@@ -58,9 +58,9 @@ The dataset used is the **'tips'** dataset from the Seaborn library — a popula
 
 ## 📈 Machine Learning Model
 
-* **Model Used:** Linear Regression
+* **Model Used:** Lasso Regression
 * **Target Variable:** `tip`
-* **Evaluation Metric:** R² score, MAE
+* **Evaluation Metric:** R2 score
 
 ---
 
@@ -85,9 +85,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
