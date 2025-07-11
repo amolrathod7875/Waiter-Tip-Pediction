@@ -49,9 +49,10 @@ The dataset used is the **'tips'** dataset from the Seaborn library — a popula
 
 * Python3
 * pandas
-* numpy
+* xgboost
 * seaborn & matplotlib
 * scikit-learn
+* plotly
 
 ---
 
